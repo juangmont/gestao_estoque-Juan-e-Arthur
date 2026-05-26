@@ -1,4 +1,4 @@
-  #GESTÃO DE ESTOQUE
+  # GESTÃO DE ESTOQUE
 
     Sistema de Gestão de Estoque em Python:
 
